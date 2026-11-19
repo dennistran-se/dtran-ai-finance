@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.log
+# Riktiga bokföringsfiler får aldrig hamna i repot
+data-local/
+*.se
+*.si
+*.sie
+*.xlsx
+*.csv
+.env
+.env.*
